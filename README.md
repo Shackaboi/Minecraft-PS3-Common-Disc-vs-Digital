@@ -6,7 +6,7 @@ A small research I've done on the Minecraft PlayStation 3 'Common' Folder
 
 ***Conclusion: When playing with BLES or BLUS just delete all in Common/res except for Title Update folder***
 
-***(this may increase performance).***
+***(this may increase ingame performance).***
 
 
 
